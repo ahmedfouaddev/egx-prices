@@ -1,0 +1,46 @@
+{
+  "fetched_at_utc": "2026-10-18T09:15:42Z",
+  "quotes": {
+    "BONY": {
+      "bar_time_utc": 1792306800,
+      "change_pct": -2.631578947368408,
+      "price": 4.07
+    },
+    "CIRA": {
+      "bar_time_utc": 1792306800,
+      "change_pct": -2.32989144823935,
+      "price": 36.89
+    },
+    "DSCW": {
+      "bar_time_utc": 1792306800,
+      "change_pct": -2.469135802469138,
+      "price": 1.58
+    },
+    "ISPH": {
+      "bar_time_utc": 1792306800,
+      "change_pct": -2.218278615794144,
+      "price": 11.02
+    },
+    "MPRC": {
+      "bar_time_utc": 1792306800,
+      "change_pct": 0.05560189046428448,
+      "price": 35.99
+    },
+    "ORHD": {
+      "bar_time_utc": 1792306800,
+      "change_pct": -2.987861811391226,
+      "price": 10.39
+    },
+    "RAYA": {
+      "bar_time_utc": 1792306800,
+      "change_pct": -0.8375209380234475,
+      "price": 5.92
+    },
+    "TMGH": {
+      "bar_time_utc": 1792306800,
+      "change_pct": -1.8171091445427803,
+      "price": 83.21
+    }
+  },
+  "source": "scanner.tradingview.com (15 min delayed)"
+}
