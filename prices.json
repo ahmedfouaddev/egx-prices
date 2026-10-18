@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-10-18T09:15:42Z",
+  "fetched_at_utc": "2026-10-18T09:16:05Z",
   "quotes": {
     "BONY": {
       "bar_time_utc": 1792306800,
@@ -23,8 +23,8 @@
     },
     "MPRC": {
       "bar_time_utc": 1792306800,
-      "change_pct": 0.05560189046428448,
-      "price": 35.99
+      "change_pct": 0.08340283569641684,
+      "price": 36
     },
     "ORHD": {
       "bar_time_utc": 1792306800,
@@ -38,8 +38,8 @@
     },
     "TMGH": {
       "bar_time_utc": 1792306800,
-      "change_pct": -1.8171091445427803,
-      "price": 83.21
+      "change_pct": -1.7109144542772896,
+      "price": 83.3
     }
   },
   "source": "scanner.tradingview.com (15 min delayed)"
