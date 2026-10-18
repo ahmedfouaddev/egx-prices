@@ -32,4 +32,11 @@ out = {
     "quotes": quotes,
 }
 json.dump(out, open("prices.json", "w"), indent=2, sort_keys=True)
+
+# Daily history: one entry per Cairo date, overwritten through the day so the last run holds the close.
+import os, zoneinfo
+cairo = datetime.datetime.now(zoneinfo.ZoneInfo("Africa/Cairo")).strftime("%Y-%m-%d")
+hist = json.load(open("history.json")) if os.path.exists("history.json") else {}
+hist[cairo] = {t: q["price"] for t, q in quotes.items()}
+json.dump(hist, open("history.json", "w"), indent=1, sort_keys=True)
 print(json.dumps(out))
