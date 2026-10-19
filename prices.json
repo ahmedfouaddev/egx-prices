@@ -1,45 +1,50 @@
 {
-  "fetched_at_utc": "2026-10-18T17:18:50Z",
+  "fetched_at_utc": "2026-10-19T07:53:13Z",
   "quotes": {
     "BONY": {
-      "bar_time_utc": 1792306800,
-      "change_pct": -5.263157894736836,
-      "price": 3.96
+      "bar_time_utc": 1792393200,
+      "change_pct": -0.7575757575757527,
+      "price": 3.93
     },
     "CIRA": {
-      "bar_time_utc": 1792306800,
-      "change_pct": -6.2748212867355155,
-      "price": 35.4
+      "bar_time_utc": 1792393200,
+      "change_pct": -1.3841807909604578,
+      "price": 34.91
     },
     "DSCW": {
-      "bar_time_utc": 1792306800,
-      "change_pct": -9.259259259259267,
-      "price": 1.47
+      "bar_time_utc": 1792393200,
+      "change_pct": 2.721088435374152,
+      "price": 1.51
+    },
+    "EGX30": {
+      "bar_time_utc": 1792393200,
+      "change_pct": -0.931110770548674,
+      "price": 50422.3
     },
     "ISPH": {
-      "bar_time_utc": 1792306800,
-      "change_pct": -5.944986690328305,
-      "price": 10.6
+      "bar_time_utc": 1792393200,
+      "change_pct": 1.037735849056615,
+      "price": 10.71
     },
     "MPRC": {
-      "bar_time_utc": 1792306800,
-      "change_pct": -3.7531276063386194,
-      "price": 34.62
+      "bar_time_utc": 1792393200,
+      "change_pct": -1.213171577123035,
+      "price": 34.2
     },
     "ORHD": {
-      "bar_time_utc": 1792306800,
-      "change_pct": -5.975723622782452,
-      "price": 10.07
+      "bar_time_utc": 1792393200,
+      "change_pct": -0.3972194637537331,
+      "price": 10.03
     },
     "RAYA": {
-      "bar_time_utc": 1792306800,
-      "change_pct": -4.5226130653266265,
-      "price": 5.7
+      "bar_time_utc": 1792393200,
+      "change_pct": -1.052631578947377,
+      "price": 5.64
     },
     "TMGH": {
-      "bar_time_utc": 1792306800,
-      "change_pct": -2.890855457227142,
-      "price": 82.3
+      "bar_time_utc": 1792393200,
+      "change_pct": -1.7132442284325595,
+      "price": 80.89
     }
   },
   "source": "scanner.tradingview.com (15 min delayed)"

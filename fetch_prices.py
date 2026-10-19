@@ -2,7 +2,7 @@
 """Fetch delayed EGX quotes from TradingView's scanner and write prices.json."""
 import json, sys, urllib.request, datetime
 
-TICKERS = ["ORHD", "RAYA", "MPRC", "DSCW", "CIRA", "ISPH", "TMGH", "BONY"]
+TICKERS = ["ORHD", "RAYA", "MPRC", "DSCW", "CIRA", "ISPH", "TMGH", "BONY", "EGX30"]
 URL = "https://scanner.tradingview.com/egypt/scan"
 
 body = json.dumps({
