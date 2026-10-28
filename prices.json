@@ -1,50 +1,50 @@
 {
-  "fetched_at_utc": "2026-10-27T18:43:00Z",
+  "fetched_at_utc": "2026-10-28T13:55:29Z",
   "quotes": {
     "BONY": {
-      "bar_time_utc": 1793084400,
-      "change_pct": 8.421052631578956,
-      "price": 4.12
+      "bar_time_utc": 1793170800,
+      "change_pct": -0.4854368932038947,
+      "price": 4.1
     },
     "CIRA": {
-      "bar_time_utc": 1793084400,
-      "change_pct": 3.4669882423876954,
+      "bar_time_utc": 1793170800,
+      "change_pct": 0,
       "price": 34.32
     },
     "DSCW": {
-      "bar_time_utc": 1793084400,
-      "change_pct": 10.948905109489043,
-      "price": 1.52
+      "bar_time_utc": 1793170800,
+      "change_pct": -3.2894736842105288,
+      "price": 1.47
     },
     "EGX30": {
-      "bar_time_utc": 1793084400,
-      "change_pct": 3.4861794125604932,
-      "price": 50104.8
+      "bar_time_utc": 1793170800,
+      "change_pct": -1.6437546901694164,
+      "price": 49281.2
     },
     "ISPH": {
-      "bar_time_utc": 1793084400,
-      "change_pct": 4.2531120331950225,
-      "price": 10.05
+      "bar_time_utc": 1793170800,
+      "change_pct": -1.8905472636816048,
+      "price": 9.86
     },
     "MPRC": {
-      "bar_time_utc": 1793084400,
-      "change_pct": 14.953271028037385,
-      "price": 31.98
+      "bar_time_utc": 1793170800,
+      "change_pct": -2.1263289555972475,
+      "price": 31.3
     },
     "ORHD": {
-      "bar_time_utc": 1793084400,
-      "change_pct": 5.779716466739361,
-      "price": 9.7
+      "bar_time_utc": 1793170800,
+      "change_pct": -1.546391752577305,
+      "price": 9.55
     },
     "RAYA": {
-      "bar_time_utc": 1793084400,
-      "change_pct": 5.893536121673013,
-      "price": 5.57
+      "bar_time_utc": 1793170800,
+      "change_pct": -1.9748653500897724,
+      "price": 5.46
     },
     "TMGH": {
-      "bar_time_utc": 1793084400,
-      "change_pct": 1.2254901960784315,
-      "price": 82.6
+      "bar_time_utc": 1793170800,
+      "change_pct": -2.966101694915241,
+      "price": 80.15
     }
   },
   "source": "scanner.tradingview.com (15 min delayed)"
