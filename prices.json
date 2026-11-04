@@ -1,50 +1,50 @@
 {
-  "fetched_at_utc": "2026-11-03T14:56:17Z",
+  "fetched_at_utc": "2026-11-04T15:17:51Z",
   "quotes": {
     "BONY": {
-      "bar_time_utc": 1793692800,
-      "change_pct": 4.926108374384242,
-      "price": 4.26
+      "bar_time_utc": 1793779200,
+      "change_pct": 2.8169014084507067,
+      "price": 4.38
     },
     "CIRA": {
-      "bar_time_utc": 1793692800,
-      "change_pct": 1.8953323903819,
-      "price": 36.02
+      "bar_time_utc": 1793779200,
+      "change_pct": 1.7212659633536853,
+      "price": 36.64
     },
     "DSCW": {
-      "bar_time_utc": 1793692800,
-      "change_pct": -1.4084507042253533,
-      "price": 1.4
+      "bar_time_utc": 1793779200,
+      "change_pct": 3.5714285714285747,
+      "price": 1.45
     },
     "EGX30": {
-      "bar_time_utc": 1793692800,
-      "change_pct": 1.761457427313537,
-      "price": 49255.7
+      "bar_time_utc": 1793779200,
+      "change_pct": 2.8311444157732,
+      "price": 50650.2
     },
     "ISPH": {
-      "bar_time_utc": 1793692800,
-      "change_pct": 3.3916849015317143,
-      "price": 9.45
+      "bar_time_utc": 1793779200,
+      "change_pct": 6.878306878306882,
+      "price": 10.1
     },
     "MPRC": {
-      "bar_time_utc": 1793692800,
-      "change_pct": 3.9687500000000098,
-      "price": 33.27
+      "bar_time_utc": 1793779200,
+      "change_pct": 2.0739404869251508,
+      "price": 33.96
     },
     "ORHD": {
-      "bar_time_utc": 1793692800,
-      "change_pct": 6.842105263157898,
-      "price": 10.15
+      "bar_time_utc": 1793779200,
+      "change_pct": -0.4926108374384306,
+      "price": 10.1
     },
     "RAYA": {
-      "bar_time_utc": 1793692800,
-      "change_pct": -0.19193857965450647,
-      "price": 5.2
+      "bar_time_utc": 1793779200,
+      "change_pct": 4.8076923076923075,
+      "price": 5.45
     },
     "TMGH": {
-      "bar_time_utc": 1793692800,
-      "change_pct": 2.307692307692304,
-      "price": 79.8
+      "bar_time_utc": 1793779200,
+      "change_pct": 1.604010025062658,
+      "price": 81.08
     }
   },
   "source": "scanner.tradingview.com (15 min delayed)"
